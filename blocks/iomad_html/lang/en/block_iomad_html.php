@@ -33,5 +33,5 @@ $string['iomad_html:addinstance'] = 'Add a new Company HTML block';
 $string['iomad_html:myaddinstance'] = 'Add a new Company HTML block to Dashboard';
 $string['leaveblanktohide'] = 'leave blank to hide the title';
 $string['newiomad_htmlblock'] = '(new Company HTML block)';
-$string['pluginname'] = 'IOMAD HTML';
-$string['privacy:metadata'] = 'The Iomad HTML block only shows data stored in other locations.';
+$string['pluginname'] = 'ELMS HTML';
+$string['privacy:metadata'] = 'The ELMS HTML block only shows data stored in other locations.';

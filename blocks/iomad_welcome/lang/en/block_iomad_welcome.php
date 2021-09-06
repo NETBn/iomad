@@ -22,9 +22,9 @@
  */
 
 $string['dashboardtext'] = 'Click here to start using IOMAD';
-$string['iomad_welcome:addinstance'] = 'Add a new Iomad Welcome block';
-$string['iomad_welcome:myaddinstance'] = 'Add a new Iomad Welcome block to the users dashboard';
-$string['iomad_welcome:view'] = 'View Iomad Welcome';
-$string['message'] = 'Welcome to <b>IOMAD</b> from E-Learn Design Limited. Iomad is controlled from its own Dashboard. Follow the link below. You will start by creating your first company.';
-$string['pluginname'] = 'Iomad - Welcome';
-$string['privacy:metadata'] = 'The Iomad Welcome block only shows data stored in other locations.';
+$string['iomad_welcome:addinstance'] = 'Add a new ELMS Welcome block';
+$string['iomad_welcome:myaddinstance'] = 'Add a new ELMS Welcome block to the users dashboard';
+$string['iomad_welcome:view'] = 'View ELMS Welcome';
+$string['message'] = 'Welcome to <b>ELMS</b> from E-Learn Design Limited. ELMS is controlled from its own Dashboard. Follow the link below. You will start by creating your first company.';
+$string['pluginname'] = 'ELMS - Welcome';
+$string['privacy:metadata'] = 'The ELMS Welcome block only shows data stored in other locations.';
